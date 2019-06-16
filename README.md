@@ -1,2 +1,2 @@
 # davidtomlin.github.io
-Personal website
+Checkout my [personal website](https://davidtomlin.github.io/), written in AngularJS and jQuery, to view my résumé and find contact information.

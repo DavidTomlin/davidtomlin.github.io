@@ -1,0 +1,20 @@
+<div class="parallax-window full-page last-page"  data-parallax="scroll" data-image-src="" ng-controller="navCtrl">
+  <div id="contact-page" class="full-page content-page">
+    <div class="page-title">Contact</div>
+    <div class="page-quote">
+      "It’s fine to celebrate success but it is more important to heed the lessons of failure."
+      <br>
+      Bill Gates
+    </div>
+
+    <div class="separator"></div>
+
+    <div class="contact-wrapper">
+      <span ng-repeat="link in extLinks">
+        <a ng-href="{{link.url}}">
+          <img ng-src="{{link.img}}" width="100px" height="100px" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)">
+        </a>
+      </span>
+    </div>
+  </div>
+</div>

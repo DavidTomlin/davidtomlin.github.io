@@ -48,7 +48,7 @@ var app = angular.module("pageRunner", [])
                   var profile = {
                     firstName : "David",
                     lastName : "Tomlin",
-                    age : 28,
+                    age : 29,
                     city : "Kansas City",
                     state : "MO"
                   };

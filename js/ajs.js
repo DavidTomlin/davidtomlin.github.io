@@ -25,14 +25,18 @@ var app = angular.module("pageRunner", [])
                         img : "images/v_email_white.png" },
                       { url : "https://www.linkedin.com/in/david-tomlin-903a394b",
                         img : "images/v_linkedin_white.png" },
+                      { url : "https://my.indeed.com/p/davidt-m8wb0pt",
+                        img : "images/v_indeed_white.png" },
+                      /** Facebook contact info
                       { url : "https://www.facebook.com/Tomlin.David",
                         img : "images/v_facebook_white.png" },
-                      { url : "https://twitter.com/david_tomlin",
-                        img : "images/v_twitter_white.png" }
+                      */
                       /** Google+ contact info
                       { url : "https://plus.google.com/100602191543623564239",
-                        img : "images/v_googleplus_white.png" }
+                        img : "images/v_googleplus_white.png" },
                       */
+                      { url : "https://twitter.com/david_tomlin",
+                        img : "images/v_twitter_white.png" }
                     ];
 
                     var scrollToPage = function(index) {
@@ -48,8 +52,8 @@ var app = angular.module("pageRunner", [])
                   var profile = {
                     firstName : "David",
                     lastName : "Tomlin",
-                    age : 29,
-                    city : "Kansas City",
+                    age : 30,
+                    city : "Independence",
                     state : "MO"
                   };
 

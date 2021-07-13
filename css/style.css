@@ -2,8 +2,8 @@
 
 /*
  * Colors
- *     #2ee4b7 = Green
- *     #22a39f = Highlighting Green
+ *     #22a39f = Green
+ *     #2ee4b7 = Highlighting Green
  *     #38bbff = Blue
  *     #ff2c48 = Red
  *     #000, #333, #555, #cdcdcd, #fff = Black to White
@@ -38,10 +38,6 @@
 }
 
 /*======== END SCROLL BARS ========*/
-
-
-
-
 
 /*============ GLOBALS ============*/
 
@@ -131,8 +127,6 @@ div.parallax {
 }
 
 /*========== END GLOBALS ==========*/
-
-
 
 
 
@@ -256,10 +250,6 @@ span#first-name {
 
 /*======== END NAVIGATION ========*/
 
-
-
-
-
 /*========= PROFILE PAGE =========*/
 
 div#profile-page-section-wrapper {
@@ -317,10 +307,6 @@ div.circle-pic {
 
 /*========== END PROFILE ==========*/
 
-
-
-
-
 /*=========== CODE PAGE ===========*/
 
 div#code-page {
@@ -359,10 +345,6 @@ div.banner-word:nth-child(4) {
 
 /*========= END CODE PAGE =========*/
 
-
-
-
-
 /*========== RESUME PAGE ==========*/
 
 div.resume-section-title {
@@ -394,12 +376,6 @@ div.resume-item-bold {
 }
 
 /*======== END RESUME PAGE ========*/
-
-
-
-
-
-
 
 /*========= CONTACT PAGE =========*/
 
